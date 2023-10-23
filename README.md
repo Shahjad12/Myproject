@@ -1,21 +1,13 @@
-# Todo list app
-A todo list app
+# Ping-Pong
+A 2D ping pong video game with AI as the opponent brings the classic table tennis sport to the digital gaming world.
 
+Players can enjoy the fast-paced gameplay, trying to anticipate the ball's trajectory and use precise timing to make skillful shots.
 
-### General steps to follow when creating a project
+### Instructions:
+Move Paddle by pressing and holding down keys 'W' and 'S'   
 
-- Thinking about the UI
-- Functionality
-	- Add a TODO
-	- Delete a TODO
-	- check task
-	- total items count
-- Data
-	- tasks - an array
-	- task - {done, text, id}
-- Functions (in code)
-	- addTodo
-	- deleteTodo
-	- checkTodo
-	- renderTodosList
-	- showNotification
+Deployment Link: https://m-adil-as.github.io/Ping-Pong
+
+Demo Video:
+
+https://user-images.githubusercontent.com/115668271/196819768-41cd8031-a746-4882-9c24-ca3a0bdb0b1c.mp4
